@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Chat';
+  //TODO interfaz para crear un usuario
+  //TODO interfaz para crear una sala
+  //TODO interfaz para unirse a una sala
+  //TODO chat general
+  //TODO interfaz de conectados
+  //TODO chat privado (crear un chat con alguien)
 }
